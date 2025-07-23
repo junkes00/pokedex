@@ -35,8 +35,8 @@ Follow the steps below to run this project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/junkes00/pokedex.git
+cd pokedex
 ```
 
 ### 2. Install dependencies
@@ -77,5 +77,5 @@ http://localhost:5173
 Author
 Made with ❤️ by Nicolas Junkes
 
-- `Nicolas Junkes (https://github.com/junkes00)`
-- `[Linke]`
+- [GitHub](https://github.com/junkes00)
+- [Linkedin](https://www.linkedin.com/in/nicolas-junkes/)
